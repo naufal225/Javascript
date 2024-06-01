@@ -74,7 +74,7 @@ console.log("10"+10+10) //101010
 console.log(10+10+"10") //2010
 
 // - Operator Kondisional
-// (10 % 2 == 0) ? "Genap" : "Ganjil"
+console.log((10 % 2 == 0) ? "Genap" : "Ganjil")
 
 // - Operator typeOf
 // untuk mengetahui tipe data dari sebuah nilai
