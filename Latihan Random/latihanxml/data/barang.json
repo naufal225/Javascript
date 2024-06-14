@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "nama": "Buku",
+        "jumlah": 20,
+        "harga": 3000
+    },
+    {
+        "id": 2,
+        "nama": "Pensil",
+        "jumlah": 30,
+        "harga": 2000
+    },
+    {
+        "id": 3,
+        "nama": "Tempat Pensil",
+        "jumlah": 10,
+        "harga": 6000
+    },
+    {
+        "id": 4,
+        "nama": "Penghapus",
+        "jumlah": 20,
+        "harga": 1000
+    }
+]
