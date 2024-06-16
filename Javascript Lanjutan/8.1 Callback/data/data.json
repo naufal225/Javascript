@@ -1,0 +1,32 @@
+[
+    {
+        "nama": "Buku Tulis",
+        "harga": 5000,
+        "jumlah": 20
+    },
+    {
+        "nama": "Pensil",
+        "harga": 2000,
+        "jumlah": 50
+    },
+    {
+        "nama": "Penghapus",
+        "harga": 1500,
+        "jumlah": 30
+    },
+    {
+        "nama": "Pulpen",
+        "harga": 3000,
+        "jumlah": 40
+    },
+    {
+        "nama": "Rautan",
+        "harga": 1000,
+        "jumlah": 25
+    },
+    {
+        "nama": "Penggaris",
+        "harga": 2500,
+        "jumlah": 35
+    }
+]
